@@ -17,4 +17,4 @@ points(data$V2[case],data$V3[case],pch="+",col="BLACK")
 abline(h=0.072,col="gray32",lty=2)
 dev.off()
 quit()
-n
+
